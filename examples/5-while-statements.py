@@ -24,31 +24,3 @@ while x < 5:
 # Is X equal to Y? x == y
 # Is X greater than or equal to Y? X >= Y
 # Is X greater than Y? X > Y
-
-
-# We can also exit a loop early, rather than waiting for the condition
-# to be false. We can do so using the 'break' keyword.
-
-# Let's consider the variable 'year' to be 455 AD.
-# What data type is this?
-year = 455
-
-# Ordinarily, this loop will run forever!
-while True:
-	# This print statement will be run every year.
-	print("The mighty Roman Empire will never fall!")
-
-	# We increment the year by 1 for each iteration.
-	year += 1
-
-	# Every year, we check if it is 476 AD.
-	# If the year is exactly 476, the code inside this 'if' statement
-	# will be run.
-	if year == 476:
-		# Uh oh!
-		print("Rome has fallen!")
-
-		# Now, we end the loop.
-		break
-
-# Because of the 'break' statement, this loop has ended.
