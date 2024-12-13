@@ -1,0 +1,56 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:131.0) Gecko/20100101 Firefox/131.0" version="25.0.3">
+  <diagram name="Page-1" id="bFpN9VPp_IRcC5_d01UH">
+    <mxGraphModel dx="2899" dy="1084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aYyURPvecHy3y0vkpPaC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=36;strokeWidth=4;endArrow=block;endFill=1;fillColor=#f8cecc;strokeColor=#000000;" edge="1" parent="1" source="aYyURPvecHy3y0vkpPaC-1" target="aYyURPvecHy3y0vkpPaC-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aYyURPvecHy3y0vkpPaC-1" value="When getting into the car:" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=36;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="-830" y="350" width="266.67" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="aYyURPvecHy3y0vkpPaC-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;endArrow=block;endFill=1;" edge="1" parent="1" source="aYyURPvecHy3y0vkpPaC-2" target="aYyURPvecHy3y0vkpPaC-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aYyURPvecHy3y0vkpPaC-30" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=36;" vertex="1" connectable="0" parent="aYyURPvecHy3y0vkpPaC-29">
+          <mxGeometry x="-0.1275" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aYyURPvecHy3y0vkpPaC-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;endArrow=block;endFill=1;" edge="1" parent="1" source="aYyURPvecHy3y0vkpPaC-2" target="aYyURPvecHy3y0vkpPaC-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aYyURPvecHy3y0vkpPaC-33" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=36;" vertex="1" connectable="0" parent="aYyURPvecHy3y0vkpPaC-31">
+          <mxGeometry x="-0.2317" y="-2" relative="1" as="geometry">
+            <mxPoint x="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aYyURPvecHy3y0vkpPaC-2" value="Is the car running?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=36;" vertex="1" parent="1">
+          <mxGeometry x="130" y="310" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="aYyURPvecHy3y0vkpPaC-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=36;strokeWidth=4;endArrow=block;endFill=1;" edge="1" parent="1" source="aYyURPvecHy3y0vkpPaC-3" target="aYyURPvecHy3y0vkpPaC-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aYyURPvecHy3y0vkpPaC-3" value="Sit down." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=36;" vertex="1" parent="1">
+          <mxGeometry x="-513" y="360" width="253.34" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="aYyURPvecHy3y0vkpPaC-15" value="Fasten seat belt." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=36;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="360" width="253.34" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="aYyURPvecHy3y0vkpPaC-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=4;endArrow=block;endFill=1;" edge="1" parent="1" source="aYyURPvecHy3y0vkpPaC-15" target="aYyURPvecHy3y0vkpPaC-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aYyURPvecHy3y0vkpPaC-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;endArrow=block;endFill=1;" edge="1" parent="1" source="aYyURPvecHy3y0vkpPaC-19" target="aYyURPvecHy3y0vkpPaC-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aYyURPvecHy3y0vkpPaC-19" value="Start the car." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=36;" vertex="1" parent="1">
+          <mxGeometry x="123.32999999999998" y="640" width="253.34" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="aYyURPvecHy3y0vkpPaC-28" value="Drive away." style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=36;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="350" width="266.67" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
